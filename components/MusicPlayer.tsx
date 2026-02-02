@@ -20,7 +20,7 @@ const MusicPlayer: React.FC<{ isPlaying: boolean }> = ({ isPlaying }) => {
       <audio
         ref={audioRef}
         loop
-        src= "/audio/Christina_Perri_-_Thousand_years_(mp3.pm).mp3"
+        src= "/au.mp3"
       />
       <button
         onClick={() => setMuted(!muted)}
