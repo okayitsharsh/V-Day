@@ -1,7 +1,6 @@
 import React from 'react';
 
 const memories = [
-<<<<<<< HEAD
   {
     id: 1,
     img: '/images/hello.jpeg',
@@ -26,12 +25,6 @@ const memories = [
     title: 'Our Future Together',
     desc: 'No distance can keep us apart.',
   },
-=======
-  { id: 1, img: '/public/images/WhatsApp Image 2026-02-02 at 10.58.49 PM.jpeg', title: 'The First Hello', desc: 'Where our story began.' },
-  { id: 2, img: '/public/images/Pi7_image.jpeg', title: 'Late Night Calls', desc: 'Hours felt like minutes with you.' },
-  { id: 3, img: '/public/images/WhatsApp Image 2026-02-02 at 10.58.50 PM.jpeg', title: 'Counting Days', desc: 'Every mile makes us stronger.' },
-  { id: 4, img: '/public/images/WhatsApp Image 2026-02-02 at 10.58.50 PM (1).jpeg', title: 'Our Future Together', desc: 'No distance can keep us apart.' },
->>>>>>> f46cc8815866a1d9066b7bb70424fd8020a65db2
 ];
 
 const MemoryWall: React.FC = () => {
