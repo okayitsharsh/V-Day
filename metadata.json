@@ -1,0 +1,8 @@
+
+{
+  "name": "Valentine's Infinite Love",
+  "description": "A deeply personalized, interactive Valentine's experience featuring AI-powered love letters, memory galleries, and dynamic romantic transitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
